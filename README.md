@@ -93,7 +93,6 @@ All random seeds are fixed. Two separate runs on the same machine gave identical
 
 ### Software versions
 
-Package                     Version
 Python                      3.12.6
 numpy                       1.26.4
 pandas                      2.2.2
