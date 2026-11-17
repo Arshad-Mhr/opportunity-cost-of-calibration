@@ -1,0 +1,11 @@
+,Logistic Regression,Random Forest,XGBoost
+Uncalibrated,0.1307,0.1332,0.1398
+"Bagged (5, uncal.)",0.1295,0.1326,0.1318
+Hold-out Platt,0.1318,0.1271,0.1328
+Hold-out isotonic,0.1355,0.1311,0.1358
+Hold-out isotonic (clipped),0.1352,0.1309,0.1355
+OOF Platt,0.1291,0.1228,0.127
+OOF isotonic,0.1305,0.1236,0.1258
+OOF isotonic (clipped),0.1304,0.1236,0.1257
+OOF Platt (5-model avg),0.1292,0.1229,0.126
+OOF isotonic (5-model avg),0.1292,0.1222,0.1239
