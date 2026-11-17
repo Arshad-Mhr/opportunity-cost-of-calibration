@@ -1,0 +1,7 @@
+,OpenML ID,Dataset,N,Raw features,Features after one-hot,Minority class (%)
+0,40,Sonar,208,60,60,46.6
+1,1480,Liver patients,583,10,10,28.6
+2,1464,Blood transfusion,748,4,4,23.8
+3,50,Tic-tac-toe,958,9,18,34.7
+4,31,Credit-g,1000,20,48,30.0
+5,1067,KC1,2109,21,21,15.5
