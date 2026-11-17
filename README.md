@@ -93,7 +93,13 @@ All random seeds are fixed. Two separate runs on the same machine gave identical
 
 ### Software versions
 
-Fill in after running `pip list`: Python, numpy, pandas, scikit-learn, xgboost, openml.
+Package                   Version
+Python                    3.12.6
+numpy                     1.26.4
+pandas                    2.2.2
+scikit-learn              1.6.1
+xgboost                   3.4.1
+openml                    0.15.1
 
 Platt scaling uses scikit-learn's internal `_SigmoidCalibration` class. It is not part of the public API and may change between scikit-learn versions.
 
